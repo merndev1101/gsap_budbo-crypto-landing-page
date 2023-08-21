@@ -11,7 +11,11 @@
 
 ## Getting Started
 
+`Before installing dependencies, you need to downgrade your node version as 16.20.* `
+
 In the project directory, you can run:
+
+### `yarn`
 
 ### `yarn dev`
 
